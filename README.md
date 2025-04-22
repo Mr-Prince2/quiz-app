@@ -1,1 +1,1 @@
-# quiz-app
+https://tinyurl.com/quzapp
