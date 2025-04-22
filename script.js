@@ -149,6 +149,7 @@ function showScore(){
     nextBtn.innerHTML = "Play Again ";
     nextBtn.style.margin = "20px auto 0 auto";
     nextBtn.style.display = "block";
+    document.getElementById("toBe").style.display = "none";
 }
 
 function handleNextBtn(){
