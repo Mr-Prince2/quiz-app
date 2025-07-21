@@ -1,10 +1,10 @@
-🧠 Quiz App
+## 🧠 Quiz App
 
 A responsive and interactive Quiz App built using HTML, CSS, and JavaScript. This app allows users to test their knowledge through multiple-choice questions, get immediate feedback, and see their final score.
 
 
 
-🚀 Features
+## 🚀 Features
 
 Multiple-choice quiz format
 
@@ -18,7 +18,7 @@ Responsive design for mobile and desktop
 
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML
 
@@ -28,7 +28,7 @@ JavaScript
 
 
 
-🧩 How It Works
+## 🧩 How It Works
 
 The user is presented with a question and multiple answer choices.
 
@@ -40,6 +40,6 @@ Option to Restart the quiz to try again
 
 
 
-⚒️Final work
+## ⚒️Final work
 
-https://tinyurl.com/quzapp
+https://mr-prince2.github.io/quiz-app/
